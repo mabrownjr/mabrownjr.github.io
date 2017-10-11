@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  background-color: #fff;
+  background-size:cover;
+  background-position: center;
+  margin-top: 150px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+h1{
+  font-family: 'Asap', sans-serif;
+  color: #000;
+  margin: 50px 10px 0px 50px;
+  font-size: 70px;
+}
+h2{
+  font-family: 'Asap', sans-serif;
+  color: #000;
+  margin: 0px 10px 0px 50px;
+  font-size: 45.5px;
+}
+p {
+  font-family: 'Asap', sans-serif;
+  color: #B71C1C;
+  margin: 10px 10px 10px 50px;
+  font-size: 35px;
+}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+
+.twitter {
+  height: 100px;
+  width: 100px;
+  margin: 10px 10px 0px 50px;
+}
+.googleplus {
+  height: 80px;
+  width: 80px;
+  margin: 10px 10px 10px 10px;
+}
+.youtube {
+  height: 80px;
+  width: 320px;
+  margin: 10px 10px 10px 10px;
+}
+.github {
+  height: 100px;
+  width: 100px;
+  margin: 10px 10px 10px 10px;
+}
