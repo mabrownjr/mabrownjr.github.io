@@ -56,7 +56,11 @@ li {
   width: 100px;
   margin: 10px 10px 10px 10px;
 }
+<<<<<<< HEAD
 @media (max-width: 200px) {
+=======
+@media (max-width: 500px) {
+>>>>>>> 9ae4adf08050310d8a2e00af72502bcc4af0528f
   img {
     width: 400px;
     height: 400px;
